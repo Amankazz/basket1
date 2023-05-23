@@ -1,5 +1,4 @@
-### Website link:-  https://24x7basket.000webhostapp.com/
-
+### Website link:- https://beamish-gingersnap-dc31d3.netlify.app/
 
 # Getting Started with Create React App
 
